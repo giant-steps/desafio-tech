@@ -4,6 +4,8 @@
 Agora que você já chegou até aqui, temos um desafio técnico para você!
 Gostariamos que você criasse um programa que analisasse as cotas de nosso fundo principal, o Zarathustra, utilizando conceitos de matemática financeira, para poder vermos se você está bem afiado com tecnologia.
 
+PS: Não publique a sua resposta publicamente! Mande um invite de seu repositório para [@rafalee](https://github.com/rafalee) e [@vmesel](https://github.com/vmesel)
+
 ### Nosso fundo: Giant Zarathustra Fundo de Investimentos Multimercado
 
 Nosso fundo principal, o Giant Zarathustra, é um fundo de investimentos multimercado que conta 
