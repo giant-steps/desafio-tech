@@ -15,7 +15,7 @@ Dada a série histórica do fundo disponível no arquivo `cotas_cdi_dados.xlsx`,
 
  - Dado um range de datas, calcule a rentabilidade do período em porcentagem
  - Dado um range de datas, calcule a rentabilidade relativa ao CDI
- - Dado um range de datas, calcule o aumento do patrimônio líquido do fundo
+ - Dado um range de datas, calcule a evolução do patrimônio do fundo
  - Dado um range de datas, retorne a data e o valor de maior e menor retorno diário
  - Dado um range de datas, retorne uma série de retorno acumulado do fundo
 
