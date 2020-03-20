@@ -23,7 +23,7 @@ Dada a série histórica do fundo e do CDI disponível nos arquivos `cotas_cdi_d
 ### O que gostariamos de ver:
 
 - Python 3 >
-- Testes bem escritos e com uma boa cobertura (> 95%)
+- Testes bem escritos e com uma boa cobertura
 - Organização e instruções de como executar o projeto
 
 
