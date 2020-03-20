@@ -32,6 +32,7 @@ Dada a série histórica do fundo e do CDI disponível nos arquivos `cotas_cdi_d
 #### Inputs
 
  **start_date** 2019-01-02
+ 
  **end_date** 2019-01-31
 
 #### Outputs
