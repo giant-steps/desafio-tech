@@ -1,8 +1,8 @@
 # Desafio Giant Steps
 ## Nosso desafio técnico
 
-Agora que você já chegou até aqui, temos um desafio técnico para você!
-Gostariamos que você criasse um programa que analisasse as cotas de nosso fundo principal, o Zarathustra, utilizando conceitos de matemática financeira, para poder vermos se você está bem afiado com tecnologia.
+Agora que você já chegou até aqui, temos um desafio técnico para você mostrar que está bem afiado com tecnologia!
+Gostariamos que você criasse um programa que analisasse o retorno de de um dos nosso fundos, o Zarathustra, utilizando alguns conceitos de matemática financeira.
 
 PS: Não publique a sua resposta publicamente! Mande um invite de seu repositório para [@rafalee](https://github.com/rafalee) e [@vmesel](https://github.com/vmesel)
 
