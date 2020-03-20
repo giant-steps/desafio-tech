@@ -11,7 +11,7 @@ PS: Não publique a sua resposta publicamente! Mande um invite de seu repositór
 Nosso fundo principal, o Giant Zarathustra, é um fundo de investimentos multimercado que conta 
 com algumas de nossas estratégias quantitativas.
 
-Dada a série histórica do fundo disponível no arquivo `cotas_cdi_dados.xlsx`, crie um programa que:
+Dada a série histórica do fundo e do CDI disponível no arquivo `cotas_cdi_dados.xlsx`, `zarathustra.csv` e `cdi.csv`, crie um programa que:
 
  1. Dado um range de datas, calcule a **rentabilidade do período em porcentagem**
  2. Dado um range de datas, calcule a **rentabilidade relativa ao CDI em porcentagem**
@@ -30,7 +30,9 @@ Dada a série histórica do fundo disponível no arquivo `cotas_cdi_dados.xlsx`,
 ### Exemplo
 
 #### Inputs
+
 **start_date** 2019-01-02
+
 **end_date** 2019-01-31
 
 #### Outputs
