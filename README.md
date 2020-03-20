@@ -4,7 +4,7 @@
 Agora que você já chegou até aqui, temos um desafio técnico para você mostrar que está bem afiado com tecnologia!
 Gostariamos que você criasse um programa que analisasse o retorno de de um dos nosso fundos, o Zarathustra, utilizando alguns conceitos de matemática financeira.
 
-PS: Não publique a sua resposta publicamente! Mande um invite de seu repositório para [@rafalee](https://github.com/rafalee) e [@vmesel](https://github.com/vmesel)
+PS: Não publique a sua resposta publicamente! Mande um invite de seu repositório privado para [@rafalee](https://github.com/rafalee) e [@vmesel](https://github.com/vmesel)
 
 ### Nosso fundo: Giant Zarathustra Fundo de Investimentos Multimercado
 
