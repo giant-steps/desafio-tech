@@ -4,7 +4,9 @@
 Agora que você já chegou até aqui, temos um desafio técnico para você mostrar que está bem afiado com tecnologia!
 Gostariamos que você criasse um programa que analisasse o retorno de de um dos nosso fundos, o Zarathustra, utilizando alguns conceitos de matemática financeira.
 
-PS: Não publique a sua resposta publicamente! Mande um invite de seu repositório privado para [@rafalee](https://github.com/rafalee).
+## Instruções de Entrega
+O desafio técnico deve ser entregue em um repositório **privado** no GitHub, autorizar o acesso ao usuário [@rafalee](https://github.com/rafalee) e enviar um e-mail para a pessoa que entrou em contato para a vaga quando finalizar o desafio com o link para o repositório.
+A solução deverá ser implementada utilizando Python e o repositório deverá conter um README contemplando instruções suficientes para execução da solução e execução dos testes automatizados.
 
 ### Nosso fundo: Giant Zarathustra Fundo de Investimentos Multimercado
 
